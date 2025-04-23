@@ -1,6 +1,6 @@
 export const environment = {
   firebase: {
-    apiKey: 'AIzaSyDTZ23iggM7dTehCQ93cxX3g3Mg_9uy9FI',
+    apiKey: '',
     authDomain: 'capstone-2025-ec7b8.firebaseapp.com',
     databaseURL: 'https://PROJECT_ID.firebaseio.com',
     projectId: 'capstone-2025-ec7b8',
