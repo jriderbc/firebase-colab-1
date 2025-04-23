@@ -1,12 +1,12 @@
 export const environment = {
   firebase: {
-    apiKey: 'API_KEY',
-    authDomain: 'PROJECT_ID.firebaseapp.com',
+    apiKey: 'AIzaSyDTZ23iggM7dTehCQ93cxX3g3Mg_9uy9FI',
+    authDomain: 'capstone-2025-ec7b8.firebaseapp.com',
     databaseURL: 'https://PROJECT_ID.firebaseio.com',
-    projectId: 'PROJECT_ID',
-    storageBucket: 'PROJECT_ID.appspot.com',
-    messagingSenderId: 'SENDER_ID',
-    appId: 'APP_ID',
-    measurementId: 'G-MEASUREMENT_ID',
+    projectId: 'capstone-2025-ec7b8',
+    storageBucket: 'capstone-2025-ec7b8.firebasestorage.app',
+    messagingSenderId: '169849532805',
+    appId: '1:169849532805:web:ac9709faee6022ea6854ec',
+    measurementId: 'G-28ZV8FGBB3',
   },
 };
